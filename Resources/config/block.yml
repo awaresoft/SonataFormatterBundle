@@ -1,0 +1,8 @@
+services:
+    sonata.formatter.block.formatter:
+        class: Awaresoft\Sonata\FormatterBundle\Block\FormatterBlock
+        tags:
+            - { name: sonata.block }
+        arguments:
+            - sonata.block.empty
+            - @templating

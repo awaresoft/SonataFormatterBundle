@@ -1,0 +1,11 @@
+{
+    "name": "awaresoft/SonataFormatterBundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Awaresoft SonataFormatterBundle",
+    "require": {
+        "php": ">= 7",
+        "symfony/symfony": "2.*"
+    },"autoload": {
+    "psr-4": { "Awaresoft\\SonataFormatterBundle\\": "" }
+}
+}
