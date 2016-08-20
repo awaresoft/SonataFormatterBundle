@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/Sonata-formatter-bundle",
+    "name": "awaresoft/sonata-formatter-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataFormatterBundle",
     "require": {
